@@ -11,26 +11,24 @@
 
 ---
 
-### 🛠️ Technologies & Tools  
-
 #### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=CDCDCD) &nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=CDCDCD) &nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=CDCDCD) &nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=CDCDCD) &nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=CDCDCD)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=212833) &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=212833) &nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=212833) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=212833&color=212833) &nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=212833)  
 
-#### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white&color=CDCDCD) &nbsp;
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&color=CDCDCD) &nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white&color=CDCDCD) &nbsp;
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&color=CDCDCD)  
+#### 🛠️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=212833) &nbsp;
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&color=212833) &nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&color=212833) &nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&color=212833)  
 
 #### ⚡ Tools & Libraries  
-![Lucide React](https://img.shields.io/badge/Lucide-FF4785?style=for-the-badge&logo=react&logoColor=white&color=CDCDCD) &nbsp;
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white&color=CDCDCD) &nbsp;
-![dotenv](https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge&logo=npm&logoColor=black&color=CDCDCD) &nbsp;
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&color=CDCDCD)  
+![Lucide React](https://img.shields.io/badge/Lucide_React-FF4785?style=for-the-badge&logo=react&logoColor=white&color=212833) &nbsp;
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white&color=212833) &nbsp;
+![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=212833&color=212833) &nbsp;
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&color=212833)  
 <br/>
 
 ---
@@ -56,7 +54,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciagrgt/)  
 [![Mail Badge](https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patriciagrgt@gmail.com)
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 ---
 

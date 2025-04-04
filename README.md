@@ -1,13 +1,13 @@
 ![Texto colorido](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Patri;How+are+you?&color=FF6E96&size=40)
 <br/><br/>
 
----
 
 ## Full Stack Developer | UX/UI Designer | Digital Marketing Specialist  
-
-💡 Passionate about creating seamless user experiences, clean code, and innovative solutions.  
-📍 Focused on **web development, UI/UX, and digital strategy.**  
 <br/>
+💡 I enjoy turning ideas into elegant interfaces with clean code and thoughtful user experiences.  
+
+📍 Focused on **web development, UI/UX, and digital strategy.**  
+<br/><br/>
 
 ---
 
@@ -48,13 +48,12 @@
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=patriciagrgt&repo=final-project-back&theme=dracula)](https://github.com/patriciagrgt/final-project-back)<br/><br/>
 
 ---
-<br/>
 
 ### 📫 Contact me  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciagrgt/)  
 [![Mail Badge](https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patriciagrgt@gmail.com)
 
-<br/><br/>
+<br/>
 
 ---
 
